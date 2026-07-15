@@ -32,8 +32,8 @@ export const projects: Project[] = [
     techStack: ['Python', 'Streamlit', 'Gemini 2.5 Flash', 'TextBlob', 'Pandas'],
     category: 'AIML',
     image: 'https://images.unsplash.com/photo-1762330465857-07e4c81c0dfa?auto=format&fit=crop&w=800&q=80',
-    githubUrl: '#', // TODO: add GitHub repo URL
-    demoUrl: '#', // TODO: add live demo URL if deployed
+    githubUrl: 'https://github.com/divyanshi-katiyar/EmoCare-AI-Therapy-Chatbot', // TODO: add GitHub repo URL
+    demoUrl: 'https://emocare-ai-therapy-chatbot-yfwrjkqic4novbyaabkn58.streamlit.app/', // TODO: add live demo URL if deployed
   },
   {
     id: 'skillswap',
