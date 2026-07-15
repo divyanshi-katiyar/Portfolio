@@ -2,7 +2,7 @@ import courseraNetworkingImg from '../assets/images/cert_coursera_networking.png
 import nptelMlImg from '../assets/images/cert_nptel_ml.png';
 import nptelMarketingImg from '../assets/images/cert_nptel_marketing.png';
 import azureDataImg from '../assets/images/cert_azure_data.png';
-import ibmGenAiImg from '../assets/images/cert_ibm_genai.jpg';
+import ibmGenAiImg from '../assets/images/cert_ibm_genai.png';
 
 export interface Certificate {
   id: string;
@@ -35,7 +35,7 @@ export const certificates: Certificate[] = [
   },
   {
     id: 'azure-data-fundamentals',
-    title: 'Azure Data Fundamentals',
+    title: 'MicroSoft Azure Data Fundamentals',
     issuer: 'Microsoft (Certiport)',
     issueDate: 'June 2025',
     image: azureDataImg,
